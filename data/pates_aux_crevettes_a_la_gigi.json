@@ -1,5 +1,6 @@
 {
   "name": "Pasta aux crevettes à la Gigi",
+  "instructions": "Tu prends de l'ail et tu le fait dorer dans l'huile d'olive avec du chili. Tu prends les courgettes coupées en petits morceaux de un demi cm et tu le mets dans l'huile a l'ail et chili jusqu'à quand elles sont assez cuites (feu pas trop fort).Tu les enlève de l'huile e tu les remplaces avec les crevettes (feu en peu plus fort); après quelques minutes tu ajoutes un peu de vin blanc et tu le laisses évaporer. La tu remets les courgettes et tu laisses cuire encore cinq minutes le tout (feu pas trop fort). A a fin, si tu veux la sauces un peu plus allemande tu peux ajouter une cuillère de crème fraîche. Tu sers avec des tagliatelle.",
   "servings": 3,
   "ingredients": [
     {
@@ -31,6 +32,5 @@
       "quantity": 300,
       "unit": "g"
     }
-  ],
-  "instructions": "Tu prends de l'ail et tu le fait dorer dans l'huile d'olive avec du chili. Tu prends les courgettes coupées en petits morceaux de un demi cm et tu le mets dans l'huile a l'ail et chili jusqu'à quand elles sont assez cuites (feu pas trop fort).Tu les enlève de l'huile e tu les remplaces avec les crevettes (feu en peu plus fort); après quelques minutes tu ajoutes un peu de vin blanc et tu le laisses évaporer. La tu remets les courgettes et tu laisses cuire encore cinq minutes le tout (feu pas trop fort). A a fin, si tu veux la sauces un peu plus allemande tu peux ajouter une cuillère de crème fraîche. Tu sers avec des tagliatelle."
+  ]
 }
